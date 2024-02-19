@@ -26,7 +26,7 @@ Aqui estão alguns dos meus projetos destacados:
 ## Entre em Contato
 
 - LinkedIn: [Seu Perfil do LinkedIn](link do LinkedIn)
-- Email: seuemail@example.com
+- Email: daviddiscipulo16@gmail.com
 - Site: [Seu Site Pessoal ou Blog](link do site)
-- Twitter: [@seu_usuario](link do Twitter)
+- X: https://twitter.com/DavidDeDoer
 
