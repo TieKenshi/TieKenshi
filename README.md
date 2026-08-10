@@ -75,3 +75,37 @@
 [![Jogar Pac-Man - Touch + Teclado](https://img.shields.io/badge/Jogar%20Pac--Man-Touch%20%2B%20Teclado-facc15?style=for-the-badge)](https://pacman.live/)
 
 Dica: no desktop use setas ou WASD. No celular, use os controles na tela (touch).
+
+
+### MiniFake (demo visual)
+
+```text
+Score: 008420   Lives: ● ● ●
+╔══════════════════════╗
+║ · · · · · · · · · ·  ║
+║ · █ █ █ █ █ █ █ █ ·  ║
+║ · █ ᗣ  · · 👻 · █ ·  ║
+║ · █ · █ █ █ · █ · ·  ║
+║ · · · · ☆ · · · · ·  ║
+╚══════════════════════╝
+```
+
+<div align="center">
+  <a href="https://pacman.live/"><img src="https://img.shields.io/badge/%E2%AC%85%EF%B8%8F-LEFT-0ea5e9?style=for-the-badge" /></a>a>
+
+  ### MiniFake (demo visual)
+
+  ```text
+Score: 008420   Lives: O O O
++----------------------+
+| . . . . . . . . . .  |
+| . # # # # # # # # .  |
+| . # C  . . G . # .  |
+| . # . # # # . # . .  |
+| . . . . * . . . . .  |
++----------------------+
+```
+
+[LEFT](https://pacman.live/) | [UP](https://pacman.live/) | [DOWN](https://pacman.live/) | [RIGHT](https://pacman.live/)
+
+MiniFake visual no README. Para jogar de verdade com touch e teclado, clique em qualquer direcao.
