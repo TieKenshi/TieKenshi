@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/TieKenshi?tab=followers"><img src="https://img.shields.io/github/followers/TieKenshi?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" /></a>
   <a href="https://github.com/TieKenshi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f766e?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/david-mendes-s-430b03121"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/david-m-430b03121/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:dmendesdasilva219@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
@@ -17,6 +17,7 @@
 
 - Desenvolvedor focado em criar solucoes uteis e bem acabadas.
 - Atualmente explorando .NET, automacao e apps desktop/web.
+- Sou um coder que usa IA na maior parte do que construo.
 - Aberto a freelas, colaboracoes e oportunidades de trabalho.
 
 ## Stack e Ferramentas
@@ -54,10 +55,16 @@
 ## Onde me encontrar
 
 <div align="center">
-  <a href="https://www.instagram.com/david_kenshi/"><img src="https://img.shields.io/badge/Instagram-@david__kenshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/david-mendes-s-430b03121"><img src="https://img.shields.io/badge/LinkedIn-David%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tiekenshi/"><img src="https://img.shields.io/badge/Instagram-@tiekenshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/tiekenshi"><img src="https://img.shields.io/badge/Twitch-tiekenshi-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/david-m-430b03121/"><img src="https://img.shields.io/badge/LinkedIn-David%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jim.com/a/d-tech-david"><img src="https://img.shields.io/badge/Site-D--Tech%20David-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:dmendesdasilva219@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmendesdasilva219%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
+## Oportunidade
+
+- Seculo21 Software (vaga fechada no momento): https://docs.google.com/forms/d/e/1FAIpQLSeNvEXrrof1bKxWYTGNgWbSX6iDd_DQbENKZPl30fxlLbbJlg/viewform?usp=sharing&ouid=104732363090390283734
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
