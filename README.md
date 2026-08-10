@@ -77,30 +77,15 @@
 Dica: no desktop use setas ou WASD. No celular, use os controles na tela (touch).
 
 
+
 ### MiniFake (demo visual)
 
 ```text
-Score: 008420   Lives: ● ● ●
-╔══════════════════════╗
-║ · · · · · · · · · ·  ║
-║ · █ █ █ █ █ █ █ █ ·  ║
-║ · █ ᗣ  · · 👻 · █ ·  ║
-║ · █ · █ █ █ · █ · ·  ║
-║ · · · · ☆ · · · · ·  ║
-╚══════════════════════╝
-```
-
-<div align="center">
-  <a href="https://pacman.live/"><img src="https://img.shields.io/badge/%E2%AC%85%EF%B8%8F-LEFT-0ea5e9?style=for-the-badge" /></a>a>
-
-  ### MiniFake (demo visual)
-
-  ```text
 Score: 008420   Lives: O O O
 +----------------------+
 | . . . . . . . . . .  |
 | . # # # # # # # # .  |
-| . # C  . . G . # .  |
+| . # C  . . G . # .   |
 | . # . # # # . # . .  |
 | . . . . * . . . . .  |
 +----------------------+
