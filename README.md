@@ -35,8 +35,8 @@
 ## GitHub em tempo real
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TieKenshi&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=22D3EE&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TieKenshi&layout=compact&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=C9D1D9" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TieKenshi&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TieKenshi&theme=github_dark" />
 </div>
 
 <div align="center">
