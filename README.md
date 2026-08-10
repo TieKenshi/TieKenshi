@@ -34,13 +34,14 @@
 
 ## GitHub em tempo real
 
+
 <div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TieKenshi&theme=github_dark" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TieKenshi&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TieKenshi&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=TieKenshi&hide_border=true&background=00000000&ring=00C2FF&fire=38BDF8&currStreakLabel=93C5FD&dates=9CA3AF&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=9CA3AF" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TieKenshi&theme=github_dark&utcOffset=-3" />
 </div>
 
 <details>
