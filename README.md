@@ -69,3 +69,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
 </div>
+
+## Pac-Man Mode
+
+[![Jogar Pac-Man - Touch + Teclado](https://img.shields.io/badge/Jogar%20Pac--Man-Touch%20%2B%20Teclado-facc15?style=for-the-badge)](https://pacman.live/)
+
+Dica: no desktop use setas ou WASD. No celular, use os controles na tela (touch).
